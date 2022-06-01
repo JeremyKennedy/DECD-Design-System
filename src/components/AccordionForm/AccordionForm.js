@@ -18,6 +18,7 @@ export function AccordionForm(props) {
   const sectionNextClick = React.useCallback(
     (cardId, index) => {
       return (e) => {
+        console.log(`cardsState: `, cardsState);
         e.preventDefault();
         if (cardsState[cardId].isValid) {
           const curIndex = cards.findIndex(({ id }) => {
