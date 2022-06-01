@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.36.1](https://github.com/DTS-STN/DECD-Design-System/compare/v1.0.5...v1.36.1) (2022-06-01)
+
 ### 1.0.7 (2022-01-21)
 
 # Changelog
